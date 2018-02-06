@@ -1,9 +1,12 @@
 {
   "name": "custom-react-scripts-adobe",
   "version": "0.2.2-2",
-  "description": "Configuration and scripts for create-react-app ",
+  "description": "Configuration and scripts for create-react-app",
   "repository": "kitze/custom-react-scripts",
   "license": "BSD-3-Clause",
+  "publishConfig":{
+    "registry":"https://artifactory.corp.adobe.com/artifactory/api/npm/npm-virgo-web-release-local/"
+  },
   "engines": {
     "node": ">=6"
   },
