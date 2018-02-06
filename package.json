@@ -1,5 +1,5 @@
 {
-  "name": "custom-react-scripts",
+  "name": "custom-react-scripts-adobe",
   "private": true,
   "scripts": {
     "build": "node packages/react-scripts/scripts/build.js",
